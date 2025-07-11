@@ -1,0 +1,5 @@
+# Local Netlify folder
+.netlify
+
+# 不要把套件資料夾推上 GitHub
+node_modules/
