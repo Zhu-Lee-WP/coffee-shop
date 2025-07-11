@@ -1,0 +1,23 @@
+{
+  "name": "coffee-shop-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhu-Lee-WP/coffee-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhu-Lee-WP/coffee-shop/issues"
+  },
+  "homepage": "https://github.com/Zhu-Lee-WP/coffee-shop#readme",
+  "description": "",
+  "dependencies": {
+    "ecpay_aio_nodejs": "^1.2.2"
+  }
+}
